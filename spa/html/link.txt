@@ -1,0 +1,9 @@
+http://172.16.0.102:8014/spamiin/index.html
+http://172.16.0.102:8014/spamiin/Spa_DichVu.html
+http://172.16.0.102:8014/spamiin/Spa_DichVu_ChiTiet.html
+http://172.16.0.102:8014/spamiin/Spa_Blog.html
+http://172.16.0.102:8014/spamiin/Blog_ChiTiet.html
+http://172.16.0.102:8014/spamiin/Spa_LienHe.html
+##trang them####################
+http://172.16.0.102:8014/spamiin/Spa_list-new.html
+http://172.16.0.102:8014/spamiin/Spa_detail-new.html
